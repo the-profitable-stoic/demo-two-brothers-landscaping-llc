@@ -1,0 +1,374 @@
+{
+  "business": {
+    "name": "Two Brothers Landscaping, LLC",
+    "phone": "+19196001834",
+    "category": "landscaping company",
+    "city": "Raleigh",
+    "state": "NC"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Raleigh's Premier Landscaping Team",
+      "heroSubline": "Two Brothers Landscaping: Transforming yards across the Triangle. Expert service, guaranteed results.",
+      "aboutTitle": "Crafting Beautiful Landscapes in the Triangle",
+      "aboutText": [
+        "Two Brothers Landscaping, LLC, started with a simple goal: to provide exceptional landscaping services built on honesty and hard work. We're Raleigh natives who understand the unique challenges and opportunities of our local environment.",
+        "Our approach is straightforward: listen to our clients, develop customized solutions, and execute with precision. We value clear communication, meticulous attention to detail, and a commitment to exceeding expectations on every project, big or small.",
+        "We're more than just a landscaping company; we're part of the Raleigh community. We support local initiatives and strive to create sustainable landscapes that enhance our city's natural beauty for future generations."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Raleigh's climate, soil, and plant life."
+        },
+        {
+          "title": "Customized Solutions",
+          "description": "Landscaping plans tailored to your specific needs and preferences."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "Punctual, professional, and dedicated to delivering on our promises."
+        },
+        {
+          "title": "Quality Craftsmanship",
+          "description": "Skilled team using premium materials for lasting results."
+        }
+      ],
+      "ctaHeadline": "Transform Your Outdoor Space Today",
+      "ctaSubline": "Get a free quote and experience the Two Brothers difference."
+    },
+    "services": [
+      {
+        "slug": "lawn-care",
+        "name": "Lawn Care",
+        "shortDescription": "Comprehensive lawn care services for a healthy, vibrant Raleigh lawn.",
+        "description": "Maintaining a lush, green lawn in Raleigh's climate requires more than just mowing. Two Brothers Landscaping provides complete lawn care services designed to combat common issues like Piedmont clay soil compaction, fungal diseases, and weed infestations. We offer fertilization programs tailored to the specific needs of your grass type, aeration to improve drainage and nutrient absorption, and overseeding to thicken your lawn and prevent weed growth. Our team also provides expert advice on watering practices to ensure your lawn thrives, even during the hot summer months. Regular mowing, edging, and blowing are included to keep your property looking its best. We use professional-grade equipment and environmentally conscious products to deliver exceptional results while minimizing our impact on the environment. Let us take the hassle out of lawn care so you can enjoy a beautiful, healthy lawn year-round.",
+        "process": [
+          "Step 1: Lawn assessment and soil testing",
+          "Step 2: Customized fertilization and weed control program",
+          "Step 3: Aeration and overseeding as needed",
+          "Step 4: Regular mowing, edging, and blowing"
+        ],
+        "benefits": [
+          "Healthier, greener lawn",
+          "Reduced weed growth",
+          "Improved drought resistance",
+          "Enhanced curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "How often should I fertilize my lawn in Raleigh?",
+            "answer": "We recommend fertilizing your lawn 4-6 times per year, depending on the grass type and soil conditions. Our customized fertilization programs are designed to provide the optimal nutrients at the right time of year."
+          },
+          {
+            "question": "What is aeration and why is it important?",
+            "answer": "Aeration involves creating small holes in the soil to improve air circulation, water drainage, and nutrient absorption. This is especially important in Raleigh due to our heavy clay soil, which can become compacted over time."
+          },
+          {
+            "question": "Do you use environmentally friendly products?",
+            "answer": "Yes, we are committed to using environmentally conscious products whenever possible. We offer organic fertilization options and prioritize sustainable lawn care practices."
+          }
+        ]
+      },
+      {
+        "slug": "landscape-design",
+        "name": "Landscape Design",
+        "shortDescription": "Transform your outdoor space with our expert landscape design services.",
+        "description": "Dreaming of a stunning outdoor oasis? Two Brothers Landscaping offers comprehensive landscape design services tailored to the unique characteristics of Raleigh properties. We start by understanding your vision, lifestyle, and budget. Our experienced designers then create a customized plan that incorporates your preferences with the latest design trends and sustainable practices. We consider factors such as sun exposure, soil conditions, and drainage to select the right plants and materials for your landscape. Whether you're looking to create a relaxing patio area, a vibrant flower garden, or a functional outdoor kitchen, we can bring your ideas to life. We handle all aspects of the design process, from initial consultation and concept development to detailed drawings and plant selection. Our goal is to create a landscape that not only enhances your property's beauty but also increases its value and provides years of enjoyment.",
+        "process": [
+          "Step 1: Initial consultation and site assessment",
+          "Step 2: Concept development and design presentation",
+          "Step 3: Detailed drawings and plant selection",
+          "Step 4: Project management and installation"
+        ],
+        "benefits": [
+          "Increased property value",
+          "Enhanced curb appeal",
+          "Customized outdoor living space",
+          "Sustainable and low-maintenance design"
+        ],
+        "faq": [
+          {
+            "question": "How much does landscape design cost?",
+            "answer": "The cost of landscape design varies depending on the size and complexity of the project. We offer free consultations and detailed estimates to help you understand the investment involved."
+          },
+          {
+            "question": "How long does the design process take?",
+            "answer": "The design process typically takes 2-4 weeks, depending on the scope of the project and the number of revisions required."
+          },
+          {
+            "question": "Do you offer 3D renderings of the landscape design?",
+            "answer": "Yes, we can provide 3D renderings to help you visualize the final result and make informed decisions about your landscape design."
+          }
+        ]
+      },
+      {
+        "slug": "hardscaping",
+        "name": "Hardscaping",
+        "shortDescription": "Enhance your landscape with our expert hardscaping services.",
+        "description": "Two Brothers Landscaping specializes in designing and installing hardscape features that add beauty, functionality, and value to your Raleigh property. From patios and walkways to retaining walls and outdoor kitchens, we can create stunning hardscapes that complement your landscape and enhance your outdoor living space. We use high-quality materials such as natural stone, pavers, and concrete to ensure durability and longevity. Our experienced team"
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Durham",
+        "slug": "durham-nc",
+        "state": "NC",
+        "content": "Two Brothers Landscaping, LLC is proud to offer our full range of landscaping services to the residents and businesses of Durham, North Carolina. From the revitalized downtown area with its renovated industrial lofts to the established neighborhoods surrounding Duke University, we understand the diverse landscaping needs of this vibrant city. We're committed to providing top-quality lawn care, landscape design, and hardscaping services to enhance the beauty and value of your Durham property.\n\nOur team is experienced in working with the specific challenges and opportunities presented by Durham's climate, including hot, humid summers. We can help you select and maintain plants that thrive in our region, ensuring a beautiful and sustainable landscape year-round. Whether you need routine lawn maintenance, a complete landscape renovation, or help with irrigation and drainage, Two Brothers Landscaping is here to serve you.\n\nWe also understand the importance of preserving Durham's unique character. We work closely with our clients to create landscapes that complement the architectural style of their homes and businesses, while also reflecting their personal tastes and preferences.",
+        "localContext": "Durham is known for its thriving arts and culture scene, historic tobacco warehouses converted into lofts, and its proximity to Research Triangle Park.",
+        "nearbyAreas": [
+          "Chapel Hill",
+          "Raleigh",
+          "Morrisville"
+        ]
+      },
+      {
+        "city": "Cary",
+        "slug": "cary-nc",
+        "state": "NC",
+        "content": "Two Brothers Landscaping, LLC is delighted to provide landscaping services to the homeowners and businesses of Cary, North Carolina. Known for its meticulously planned communities developed from the 1980s through the 2000s, Cary boasts beautiful neighborhoods and a strong sense of community. We understand the importance of maintaining pristine lawns and well-manicured landscapes in this desirable town.\n\nOur team is skilled in providing a wide range of services, including lawn mowing, fertilization, weed control, and landscape design. We can help you create a beautiful and inviting outdoor space that enhances the curb appeal of your Cary property. We also offer hardscaping services, such as patio construction and walkway installation, to create functional and stylish outdoor living areas.\n\nWe are committed to providing exceptional customer service and exceeding your expectations. We take pride in our attention to detail and our dedication to creating landscapes that are both beautiful and sustainable.",
+        "localContext": "Cary is a large suburban town known for its master-planned communities, excellent schools, and numerous parks and greenways.",
+        "nearbyAreas": [
+          "Apex",
+          "Morrisville",
+          "Raleigh"
+        ]
+      },
+      {
+        "city": "Chapel Hill",
+        "slug": "chapel-hill-nc",
+        "state": "NC",
+        "content": "Two Brothers Landscaping, LLC is pleased to offer our services to the residents and businesses of Chapel Hill, North Carolina. Home to the University of North Carolina, Chapel Hill is a vibrant and diverse community with a rich history and a strong focus on education and culture. We understand the unique landscaping needs of this university town, from maintaining the grounds of historic homes to creating inviting outdoor spaces for students and faculty.\n\nWe offer a comprehensive range of landscaping services, including lawn care, landscape design, and hardscaping. Our team is experienced in working with the specific challenges and opportunities presented by Chapel Hill's climate and diverse housing stock. We can help you select and maintain plants that thrive in our region, ensuring a beautiful and sustainable landscape year-round.\n\nWe are committed to providing exceptional customer service and exceeding your expectations. We work closely with our clients to understand their needs and preferences, and we tailor our services to meet their specific requirements.",
+        "localContext": "Chapel Hill is a quintessential college town, known for its vibrant Franklin Street, the University of North Carolina, and its progressive atmosphere.",
+        "nearbyAreas": [
+          "Durham",
+          "Carrboro",
+          "Hillsborough"
+        ]
+      },
+      {
+        "city": "Apex",
+        "slug": "apex-nc",
+        "state": "NC",
+        "content": "Two Brothers Landscaping, LLC is excited to offer our landscaping services to the growing community of Apex, North Carolina. Known for its family-friendly atmosphere and newer developments built in the 2000s and 2020s, Apex is a popular destination for families seeking a high quality of life. We understand the importance of creating beautiful and functional outdoor spaces for families to enjoy.\n\nOur team is skilled in providing a wide range of services, including lawn mowing, fertilization, weed control, and landscape design. We can help you create a beautiful and inviting outdoor space that enhances the curb appeal of your Apex property. We also offer hardscaping services, such as patio construction and walkway installation, to create functional and stylish outdoor living areas.\n\nWe are committed to providing exceptional customer service and exceeding your expectations. We take pride in our attention to detail and our dedication to creating landscapes that are both beautiful and sustainable.",
+        "localContext": "Apex is a rapidly growing town known for its strong sense of community, excellent schools, and numerous parks and recreational opportunities.",
+        "nearbyAreas": [
+          "Cary",
+          "Holly Springs",
+          "Fuquay-Varina"
+        ]
+      },
+      {
+        "city": "Morrisville",
+        "slug": "morrisville-nc",
+        "state": "NC",
+        "content": "Two Brothers Landscaping, LLC proudly serves Morrisville, North Carolina, providing top-quality landscaping services to this thriving community. As a hub for tech workers and conveniently located near Research Triangle Park (RTP), Morrisville boasts a diverse population and modern homes. We understand the needs of busy professionals and families who value well-maintained and attractive outdoor spaces.\n\nOur services include everything from routine lawn care and seasonal clean-up to full-scale landscape design and installation. We are experienced in creating low-maintenance landscapes that thrive in North Carolina's climate. Two Brothers Landscaping is dedicated to providing reliable and professional service that exceeds your expectations.\n\nWhether you're looking to enhance your curb appeal, create a relaxing backyard oasis, or simply maintain a healthy and vibrant lawn, Two Brothers Landscaping is here to help. We are committed to providing exceptional customer service and using sustainable practices whenever possible.",
+        "localContext": "Morrisville is a growing town in the heart of the Research Triangle, known for its proximity to RTP, diverse population, and numerous technology companies.",
+        "nearbyAreas": [
+          "Cary",
+          "Raleigh",
+          "Durham"
+        ]
+      },
+      {
+        "city": "Raleigh",
+        "slug": "raleigh-nc",
+        "state": "NC",
+        "content": "Two Brothers Landscaping, LLC is your trusted partner for all your landscaping needs in Raleigh, North Carolina. As the capital city and a major center for education, technology, and culture, Raleigh presents a diverse range of landscaping styles and requirements. From the historic neighborhoods of Oakwood and Boylan Heights to the modern developments of North Raleigh, we have the experience and expertise to create and maintain beautiful landscapes throughout the city.\n\nOur comprehensive services include lawn care, landscape design, hardscaping, irrigation, and more. We understand the challenges of Raleigh's climate, including hot summers and occasional droughts, and we can help you select and maintain plants that thrive in our region. We are committed to providing exceptional customer service and exceeding your expectations.\n\nWe pride ourselves on our attention to detail and our dedication to creating landscapes that are both aesthetically pleasing and environmentally sustainable. Whether you're looking to enhance your curb appeal, create a relaxing backyard oasis, or simply maintain a healthy and vibrant lawn, Two Brothers Landscaping is here to help.",
+        "localContext": "Raleigh is the capital of North Carolina, known for its museums, parks, universities, and vibrant downtown area.",
+        "nearbyAreas": [
+          "Cary",
+          "Apex",
+          "Garner"
+        ]
+      },
+      {
+        "city": "Garner",
+        "slug": "garner-nc",
+        "state": "NC",
+        "content": "Two Brothers Landscaping, LLC is pleased to offer our comprehensive landscaping services to the residents and businesses of Garner, North Carolina. Known for its friendly community and convenient location near Raleigh, Garner offers a mix of established neighborhoods and new developments. We understand the importance of creating and maintaining attractive outdoor spaces that enhance the quality of life for Garner residents.\n\nOur services include lawn care, landscape design, hardscaping, and more. We are experienced in working with the specific challenges and opportunities presented by Garner's climate and diverse landscapes. We can help you select and maintain plants that thrive in our region, ensuring a beautiful and sustainable landscape year-round.\n\nWe are committed to providing exceptional customer service and exceeding your expectations. We work closely with our clients to understand their needs and preferences, and we tailor our services to meet their specific requirements.",
+        "localContext": "Garner is a rapidly growing town located southeast of Raleigh, known for its affordable housing and convenient access to the city.",
+        "nearbyAreas": [
+          "Clayton",
+          "Raleigh",
+          "Fuquay-Varina"
+        ]
+      },
+      {
+        "city": "Clayton",
+        "slug": "clayton-nc",
+        "state": "NC",
+        "content": "Two Brothers Landscaping, LLC is excited to extend our landscaping services to the growing town of Clayton, North Carolina. Clayton is a vibrant community experiencing rapid growth, with a mix of historic charm and modern development. We recognize the importance of well-maintained landscapes in enhancing the appeal and value of homes and businesses in Clayton.\n\nWe provide a full suite of landscaping services, including lawn maintenance, landscape design and installation, hardscaping, and seasonal clean-up. Our team is experienced in addressing the unique landscaping needs of Clayton residents. Two Brothers Landscaping is committed to delivering exceptional quality and customer satisfaction.\n\nWhether you're looking to create an inviting front yard, design a relaxing backyard retreat, or simply maintain a healthy and green lawn, Two Brothers Landscaping is here to assist you. We are dedicated to providing reliable and professional service that exceeds your expectations.",
+        "localContext": "Clayton is a rapidly growing town located southeast of Raleigh, known for its small-town charm and family-friendly atmosphere.",
+        "nearbyAreas": [
+          "Garner",
+          "Smithfield",
+          "Wendell"
+        ]
+      }
+    ],
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "500+",
+      "satisfaction": "98%",
+      "teamSize": "15+"
+    },
+    "seo": {
+      "homepage": {
+        "title": "Two Brothers Landscaping, LLC | Raleigh",
+        "description": "Two Brothers Landscaping, LLC serving Raleigh, NC"
+      },
+      "about": {
+        "title": "About Two Brothers Landscaping, LLC",
+        "description": "Learn about Two Brothers Landscaping, LLC"
+      },
+      "services": {
+        "title": "Services | Two Brothers Landscaping, LLC",
+        "description": "Our services"
+      },
+      "contact": {
+        "title": "Contact Two Brothers Landscaping, LLC",
+        "description": "Get in touch"
+      },
+      "reviews": {
+        "title": "Reviews | Two Brothers Landscaping, LLC",
+        "description": "Customer reviews"
+      },
+      "service-areas": {
+        "title": "Service Areas | Two Brothers Landscaping, LLC",
+        "description": "Areas we serve"
+      }
+    },
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "landscaping company",
+        "text": "Excellent work, very professional team.",
+        "date": "2025-06-15"
+      },
+      {
+        "name": "James R.",
+        "rating": 5,
+        "service": "landscaping company",
+        "text": "On time, on budget, and great results.",
+        "date": "2025-08-20"
+      }
+    ]
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "lawn-care": "/images/service-lawn-care.webp",
+      "landscape-design": "/images/service-landscape-design.webp",
+      "hardscaping": "/images/service-hardscaping.webp"
+    },
+    "servicesResponsive": {
+      "lawn-care": {
+        "src": "/images/service-lawn-care.webp",
+        "srcset": "/images/service-lawn-care-400w.webp 400w, /images/service-lawn-care-800w.webp 800w, /images/service-lawn-care-1200w.webp 1200w, /images/service-lawn-care.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "landscape-design": {
+        "src": "/images/service-landscape-design.webp",
+        "srcset": "/images/service-landscape-design-400w.webp 400w, /images/service-landscape-design-800w.webp 800w, /images/service-landscape-design-1200w.webp 1200w, /images/service-landscape-design.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hardscaping": {
+        "src": "/images/service-hardscaping.webp",
+        "srcset": "/images/service-hardscaping-400w.webp 400w, /images/service-hardscaping-800w.webp 800w, /images/service-hardscaping-1200w.webp 1200w, /images/service-hardscaping.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

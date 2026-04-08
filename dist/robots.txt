@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-two-brothers-landscaping-llc.dream-surge.com/sitemap-index.xml
